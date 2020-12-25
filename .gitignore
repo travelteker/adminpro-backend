@@ -1,3 +1,5 @@
 node_modules/
 src/environments/*
 !src/environments/.env.template
+!src/environments/*.js
+logs/*.log
