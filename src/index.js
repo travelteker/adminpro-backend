@@ -2,5 +2,4 @@
 
 const apiServer = require('./app');
 
-
-apiServer.start()
+apiServer.start();
